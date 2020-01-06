@@ -4,7 +4,6 @@ class Player
 
     def initialize(x_o)
         @token = x_o
-
     end
 
 end

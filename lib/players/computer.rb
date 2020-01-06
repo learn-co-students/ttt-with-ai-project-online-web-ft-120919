@@ -9,10 +9,7 @@ module Players
                     available_moves << index.to_s
                 end
             end
-            # available_moves
-            # binding.pry
-            # ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
-            # ["1", "2", "3", "4", "5", "6", "7", "8", "9"]
+            available_moves
         end
 
     end
