@@ -9,7 +9,7 @@ module Players
                     available_moves << index.to_s
                 end
             end
-            available_moves
+            available_moves[0]
         end
 
     end
