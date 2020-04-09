@@ -1,0 +1,5 @@
+class Players::Human
+  
+
+
+end
